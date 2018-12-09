@@ -1,0 +1,7 @@
+html {
+    background-color: #fff
+}
+
+html.dark {
+    background-color: #000
+}
